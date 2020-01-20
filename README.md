@@ -8,7 +8,7 @@ Install and configures Nodejs
 
    - name: nodejs_version
      desc: nodejs version to be installed
-     value: 6.x
+     value: 8.x
 
 # Dependencies #
 
